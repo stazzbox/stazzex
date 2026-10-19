@@ -1,0 +1,1 @@
+(()=>{const load=(tag,attrs)=>new Promise((ok,no)=>{const e=document.createElement(tag);Object.entries(attrs).forEach(([k,v])=>e.setAttribute(k,v));e.onload=ok;e.onerror=no;document.head.appendChild(e)});Promise.resolve().then(()=>load('link',{rel:'stylesheet',href:'/assets/stazz-chat.css'})).then(()=>load('script',{src:'/assets/stazz-chat.js',defer:'true'})).catch(()=>{});})();
