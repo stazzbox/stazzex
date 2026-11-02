@@ -195,16 +195,16 @@
     },
     {
       "id": "STX-027",
-      "name": "Patrol 1",
-      "classification": "Institution",
-      "definition": "Stazzerian Patrol 1 is the primary Stazzerian patrol responsible for handling citizen matters within the Stazzzerian Framework. It functions as an institutional component of Stazzerian governance and community administration.",
+      "name": "Patrol One",
+      "classification": "Security Institution / Security Operations System",
+      "definition": "Patrol One is Kelvin Stazzland's security operations system, responsible for organizing and coordinating private security activities and Stazzerian protective functions. The Department of Stazz (DOS) handles Patrol One operations within Stazzeria's institutional structure. Patrol One undertakes assigned tasks involving recognized Stazzerian citizens and coordinates Stazzerian Secret Service operations. Its internal Stazzerian institutional interactions are limited to recognized Stazzerian citizens; real-world private security activities remain subject to applicable law.",
       "page": "/entries/stx-027.html"
     },
     {
       "id": "STX-028",
       "name": "Stazzerian Patrols",
       "classification": "Institutional Activity / Patrol Operations",
-      "definition": "Stazzerian Patrols are the operational patrol activities carried out by Patrol 1 in matters associated with Stazzerian citizens, property, and institutional interests; they are not a separate institution from Patrol 1.",
+      "definition": "Stazzerian Patrols are the operational patrol activities carried out through Patrol One under the Department of Stazz's operational administration. These include assigned matters involving recognized Stazzerian citizens, their interests, and institutional responsibilities. Stazzerian Patrols are activities, not a separate institution from Patrol One; real-world private security activities remain subject to applicable law.",
       "page": "/entries/stx-028.html"
     },
     {
@@ -288,7 +288,7 @@
       "id": "STX-040",
       "name": "Stazzerian Secret Service",
       "classification": "Institution",
-      "definition": "The Stazzerian Secret Service is a protective and security institution within the Stazzerian Framework that functions similarly to a conventional secret service agency. The Stazzerian President assigns designated Stazzerians to serve as Secret Service operators and carry out protective, security, and other assigned missions. The identities and specific composition of the Stazzerian Secret Service are not publicly disclosed. Alternative office name: Secret Service of Stazzeria.",
+      "definition": "The Stazzerian Secret Service is a protective and security institution within the Department of Stazz (DOS). The Stazzerian President designates Stazzerians to serve as Secret Service operators and carry out protective, security, and other assigned missions. The DOS handles Patrol One operations, and Stazzerian Secret Service security operations are coordinated through Patrol One. The identities and specific composition of the Stazzerian Secret Service are not publicly disclosed. Alternative office name: Secret Service of Stazzeria.",
       "page": "/entries/stx-040.html"
     },
     {
@@ -572,7 +572,7 @@
       "id": "STX-080",
       "name": "Department of Stazz (DOS)",
       "classification": "Government Institution / Executive Administration",
-      "definition": "The Department of Stazz (DOS) is the central governmental and executive administrative institution of Stazzeria. It comprises the recognized offices and leadership structure responsible for administering Stazzerian governance, coordinating institutional affairs, and carrying out the principles of Stazzerian Presidential Collectivism. Its motto is Ordo in Chao (Order in Chaos). Official titles: President of Stazzeria; Stazzerian President. Vice President of Stazzeria; Stazzerian Vice President. War General of Stazzeria; Stazzerian War General. First Judge of Stazzeria; Stazzerian First Judge. Monarch of Stazzeria; Stazzerian Monarch. Mediator of Stazzeria; Stazzerian Mediator. Advisor of Stazzeria; Stazzerian Advisor. Head of Stazz (currently held by President Kelvin Stazzland). First Lady of Stazzeria; Stazzerian First Lady. Secret Service of Stazzeria; Stazzerian Secret Service. Reference entries: STX-009 Stazzeria; STX-051 Stazzerian Presidential Collectivism; STX-063 Stazzism.",
+      "definition": "The Department of Stazz (DOS) is the central governmental and executive administrative institution of Stazzeria. The Stazzerian President and the DOS preside over Stazzeria as its public face and organized social structure. The DOS handles Patrol One operations, including coordination of Stazzerian Secret Service security operations through Patrol One. It comprises the recognized offices and leadership structure responsible for administering Stazzerian governance, coordinating institutional affairs, and carrying out the principles of Stazzerian Presidential Collectivism. Its motto is Order Within Chaos. Official titles: President of Stazzeria; Stazzerian President. Vice President of Stazzeria; Stazzerian Vice President. War General of Stazzeria; Stazzerian War General. First Judge of Stazzeria; Stazzerian First Judge. Monarch of Stazzeria; Stazzerian Monarch. Mediator of Stazzeria; Stazzerian Mediator. Advisor of Stazzeria; Stazzerian Advisor. Head of Stazz (currently held by President Kelvin Stazzland). First Lady of Stazzeria; Stazzerian First Lady. Secret Service of Stazzeria; Stazzerian Secret Service. Reference entries: STX-009 Stazzeria; STX-051 Stazzerian Presidential Collectivism; STX-063 Stazzism.",
       "page": "/entries/stx-080.html"
     },
     {
